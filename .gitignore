@@ -31,6 +31,9 @@ htmlcov
 # Translations
 *.mo
 
+# SQLite
+*/db.sqlite3
+
 # Mr Developer
 .mr.developer.cfg
 .project
